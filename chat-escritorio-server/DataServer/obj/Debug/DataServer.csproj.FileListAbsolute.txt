@@ -1,0 +1,11 @@
+C:\Users\Aleja\Proyectos\Proyectos\chat-escritorio\chat-escritorio-server\DataServer\bin\Debug\DataServer.exe.config
+C:\Users\Aleja\Proyectos\Proyectos\chat-escritorio\chat-escritorio-server\DataServer\bin\Debug\DataServer.exe
+C:\Users\Aleja\Proyectos\Proyectos\chat-escritorio\chat-escritorio-server\DataServer\bin\Debug\DataServer.pdb
+C:\Users\Aleja\Proyectos\Proyectos\chat-escritorio\chat-escritorio-server\DataServer\obj\Debug\DataServer.csproj.AssemblyReference.cache
+C:\Users\Aleja\Proyectos\Proyectos\chat-escritorio\chat-escritorio-server\DataServer\obj\Debug\DataServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleja\Proyectos\Proyectos\chat-escritorio\chat-escritorio-server\DataServer\obj\Debug\DataServer.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\Proyectos\Proyectos\chat-escritorio\chat-escritorio-server\DataServer\obj\Debug\DataServer.exe
+C:\Users\Aleja\Proyectos\Proyectos\chat-escritorio\chat-escritorio-server\DataServer\obj\Debug\DataServer.pdb
+C:\Users\Aleja\Proyectos\Proyectos\chat-escritorio\chat-escritorio-server\DataServer\bin\Debug\DataModel.dll
+C:\Users\Aleja\Proyectos\Proyectos\chat-escritorio\chat-escritorio-server\DataServer\bin\Debug\DataModel.pdb
+C:\Users\Aleja\Proyectos\Proyectos\chat-escritorio\chat-escritorio-server\DataServer\obj\Debug\DataServer.csproj.CopyComplete
